@@ -36,6 +36,8 @@ O conteúdo está estruturado para levar você do conceito básico à construç�
 * Fluxo de trabalho: Extração, Indexação e Recuperação.
 * **[Notebook]** | **[Projeto Prático]**
 
+### 5. Projetos
+
 ---
 
 ## 🛠️ Ferramentas e Documentação
